@@ -1,0 +1,18 @@
+.section {
+  margin-bottom: 2rem;
+}
+
+.section h1,
+.section h2 {
+  border-bottom: 2px solid #333;
+  padding-bottom: 0.5rem;
+}
+
+.section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.section ul li {
+  margin-bottom: 0.5rem;
+}
